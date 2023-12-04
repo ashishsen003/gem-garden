@@ -104,7 +104,7 @@ Install Gem Garden with npm
 
 ```bash
   npm install / npm install --legacy-peer-deps
-  cd Gem_Garden
+  cd gem-garden
 ```
 
     
