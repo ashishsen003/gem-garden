@@ -1,6 +1,8 @@
 # Gem Garden
 - Welcome to GEM GARDEN, your premier destination for exquisite designer jewelry! Our e-commerce website is designed to provide an unparalleled shopping experience for jewelry enthusiasts of all tastes. Whether you're searching for timeless classics or the latest in contemporary designs, GEM GARDEN has it all.
 
+### Netlify Link https://gemgarden.netlify.app/
+
 ### Home Page
 - Our Home Page is the gateway to a world of exquisite designer jewelry. Discover our most popular products, featured prominently, and navigate effortlessly with our user-friendly Navbar. Explore our New Collection to stay updated with the latest trends. Our Footer provides quick access to essential links and information, ensuring a seamless browsing experience.
 
