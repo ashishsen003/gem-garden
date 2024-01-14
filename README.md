@@ -94,12 +94,6 @@ To deploy this project run
   npm run deploy
 ```
 
-### Vercel Link 
-
-```bash
-  https://gem-gardern-mock-api.onrender.com/users
-```
-
 ## Installation
 
 Install Gem Garden with npm
@@ -107,6 +101,7 @@ Install Gem Garden with npm
 ```bash
   npm install / npm install --legacy-peer-deps
   cd gem-garden
+  npm run start
 ```
 
     
